@@ -1,0 +1,19 @@
+{
+  "name": "dialogflow-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/dialogflow": "^5.5.0",
+    "brew": "^0.0.8",
+    "connect-busboy": "^1.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "node-record-lpcm16": "^1.0.1",
+    "pb-util": "^1.0.3",
+    "promisfy": "^1.2.0",
+    "util.promisify": "^1.1.1",
+    "uuid": "^9.0.0"
+  }
+}
